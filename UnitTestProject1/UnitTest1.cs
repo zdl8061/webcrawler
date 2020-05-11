@@ -20,6 +20,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
+            var i = 0;
             //using (TxDataHelper helper = TxDataHelper.GetDataHelper("TxoooAgent"))
             //{
             //    string _sql = "select * from sales_product_index";
